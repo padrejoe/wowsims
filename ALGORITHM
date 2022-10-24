@@ -1,0 +1,7 @@
+classes = ('Ppal','everythingelse')
+
+for class in classes:
+  if class == 'Ppal':
+    print('The best')
+  else:
+    print('Dont give this shitter gear')
