@@ -1,3 +1,6 @@
+# Big updated algo with the data and such
+
+
 classes = ('Ppal','everythingelse')
 
 
